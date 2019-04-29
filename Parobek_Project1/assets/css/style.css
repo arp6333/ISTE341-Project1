@@ -1,0 +1,32 @@
+/* custom stylesheet */
+
+/* some materialize body styles */
+.icon-block .section .container .row{
+    padding: 0!important;
+}
+
+.players{
+    padding-right: 60px;
+}
+
+.icon-block .material-icons{
+	font-size: inherit;
+}
+
+.modalFinal{ 
+    width: 90% !important; 
+    height: 100% !important; 
+    max-height: 85% !important;
+}
+
+.modal svg, img{
+    max-width: 95%;
+}
+
+.modal{
+    padding: 6px !important;
+}
+
+#modal1{
+    padding: 50px !important;
+}
